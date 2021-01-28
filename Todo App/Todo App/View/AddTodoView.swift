@@ -28,6 +28,7 @@ struct AddTodoView: View {
                 VStack(alignment: .leading, spacing: 20) {
                     // MARK: - TODO NAME
                     TextField("Todo", text: $name)
+                        .multilineTextAlignment(.center)
                         .padding()
                         .background(Color(UIColor.tertiarySystemFill))
                         .cornerRadius(9)
