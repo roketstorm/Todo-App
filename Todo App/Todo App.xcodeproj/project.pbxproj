@@ -10,6 +10,15 @@
 		9044AD1325C3BE3C00AD7853 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9044AD1225C3BE3C00AD7853 /* SettingsView.swift */; };
 		9044AD1625C3C33600AD7853 /* FormRowStaticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9044AD1525C3C33600AD7853 /* FormRowStaticView.swift */; };
 		9044AD1925C3C69200AD7853 /* FormRowLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9044AD1825C3C69200AD7853 /* FormRowLinkView.swift */; };
+		90947CDA25C40D3500B3FA22 /* Blue Light.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD125C40D3400B3FA22 /* Blue Light.png */; };
+		90947CDB25C40D3500B3FA22 /* Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD225C40D3500B3FA22 /* Blue.png */; };
+		90947CDC25C40D3500B3FA22 /* Blue Dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD325C40D3500B3FA22 /* Blue Dark.png */; };
+		90947CDD25C40D3500B3FA22 /* Green Light.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD425C40D3500B3FA22 /* Green Light.png */; };
+		90947CDE25C40D3500B3FA22 /* Pink Dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD525C40D3500B3FA22 /* Pink Dark.png */; };
+		90947CDF25C40D3500B3FA22 /* Pink Light.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD625C40D3500B3FA22 /* Pink Light.png */; };
+		90947CE025C40D3500B3FA22 /* Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD725C40D3500B3FA22 /* Green.png */; };
+		90947CE125C40D3500B3FA22 /* Pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD825C40D3500B3FA22 /* Pink.png */; };
+		90947CE225C40D3500B3FA22 /* Green Dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 90947CD925C40D3500B3FA22 /* Green Dark.png */; };
 		90A7041825C2A22E00A8D56A /* EmptyListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90A7041725C2A22E00A8D56A /* EmptyListView.swift */; };
 		CB48351525C1E4E10058BB03 /* Todo_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB48351425C1E4E10058BB03 /* Todo_AppApp.swift */; };
 		CB48351725C1E4E10058BB03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB48351625C1E4E10058BB03 /* ContentView.swift */; };
@@ -24,6 +33,15 @@
 		9044AD1225C3BE3C00AD7853 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		9044AD1525C3C33600AD7853 /* FormRowStaticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormRowStaticView.swift; sourceTree = "<group>"; };
 		9044AD1825C3C69200AD7853 /* FormRowLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormRowLinkView.swift; sourceTree = "<group>"; };
+		90947CD125C40D3400B3FA22 /* Blue Light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue Light.png"; sourceTree = "<group>"; };
+		90947CD225C40D3500B3FA22 /* Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Blue.png; sourceTree = "<group>"; };
+		90947CD325C40D3500B3FA22 /* Blue Dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue Dark.png"; sourceTree = "<group>"; };
+		90947CD425C40D3500B3FA22 /* Green Light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green Light.png"; sourceTree = "<group>"; };
+		90947CD525C40D3500B3FA22 /* Pink Dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pink Dark.png"; sourceTree = "<group>"; };
+		90947CD625C40D3500B3FA22 /* Pink Light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pink Light.png"; sourceTree = "<group>"; };
+		90947CD725C40D3500B3FA22 /* Green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Green.png; sourceTree = "<group>"; };
+		90947CD825C40D3500B3FA22 /* Pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pink.png; sourceTree = "<group>"; };
+		90947CD925C40D3500B3FA22 /* Green Dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green Dark.png"; sourceTree = "<group>"; };
 		90A7041725C2A22E00A8D56A /* EmptyListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyListView.swift; sourceTree = "<group>"; };
 		CB48351125C1E4E10058BB03 /* Todo App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Todo App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB48351425C1E4E10058BB03 /* Todo_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo_AppApp.swift; sourceTree = "<group>"; };
@@ -47,6 +65,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		90947CD025C4095A00B3FA22 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				90947CD325C40D3500B3FA22 /* Blue Dark.png */,
+				90947CD125C40D3400B3FA22 /* Blue Light.png */,
+				90947CD225C40D3500B3FA22 /* Blue.png */,
+				90947CD925C40D3500B3FA22 /* Green Dark.png */,
+				90947CD425C40D3500B3FA22 /* Green Light.png */,
+				90947CD725C40D3500B3FA22 /* Green.png */,
+				90947CD525C40D3500B3FA22 /* Pink Dark.png */,
+				90947CD625C40D3500B3FA22 /* Pink Light.png */,
+				90947CD825C40D3500B3FA22 /* Pink.png */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
 		CB48350825C1E4E10058BB03 = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +100,7 @@
 		CB48351325C1E4E10058BB03 /* Todo App */ = {
 			isa = PBXGroup;
 			children = (
+				90947CD025C4095A00B3FA22 /* Icons */,
 				CB48352925C1E63C0058BB03 /* View */,
 				CB48351425C1E4E10058BB03 /* Todo_AppApp.swift */,
 				CB48351825C1E4E30058BB03 /* Assets.xcassets */,
@@ -155,8 +190,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90947CE225C40D3500B3FA22 /* Green Dark.png in Resources */,
+				90947CDA25C40D3500B3FA22 /* Blue Light.png in Resources */,
+				90947CE025C40D3500B3FA22 /* Green.png in Resources */,
+				90947CDE25C40D3500B3FA22 /* Pink Dark.png in Resources */,
 				CB48351C25C1E4E30058BB03 /* Preview Assets.xcassets in Resources */,
+				90947CDF25C40D3500B3FA22 /* Pink Light.png in Resources */,
 				CB48351925C1E4E30058BB03 /* Assets.xcassets in Resources */,
+				90947CDD25C40D3500B3FA22 /* Green Light.png in Resources */,
+				90947CE125C40D3500B3FA22 /* Pink.png in Resources */,
+				90947CDB25C40D3500B3FA22 /* Blue.png in Resources */,
+				90947CDC25C40D3500B3FA22 /* Blue Dark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
